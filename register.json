@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "gamenova": {
+      "repo": "https://github.com/dyahi8086/GameZone",
+      "target": "dyahi8086.github.io"
     }
   },
   "openrepos.sh": {},
